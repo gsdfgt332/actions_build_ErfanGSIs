@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/20.4.27/miui_MIMIX3_20.4.27_8f7879221b_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://gauss-componentotacostmanual-cn.allawnfs.com/remove-c4694e3685131303543342e6d18103e3/component-ota/22/11/22/e38de09e4ead449195ccc0e50ce0e1b6.zip
+  ROM_NAME: color
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
